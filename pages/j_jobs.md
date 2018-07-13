@@ -14,6 +14,20 @@ Le offerte più recenti in alto, dopo queste istruzioni.
 
 ---
 
+**Date:** 11/07/2018  
+**Company:** [Reply](https://meritocracy.is/it/reply?utm_source=jug_torino&utm_medium=referral&utm_campaign=reply_junior_dev)  
+**Location:** Torino
+**Title:** Junior Developer   
+**Contact:** <arianna@meritocracy.is>
+
+Il nostro partner Reply, una società specializzata in Consulenza, System Integration e Digital Services, è alla ricerca di giovani sviluppatori da inserire nei loro team dedicati allo sviluppo.   
+A seconda del tuo background, potrai interfacciarti con uno o più tra i principali linguaggi di programmazione, quali Java, JS, Python, C++, R, Mobile Android, Mobile Ios e Ajax, lavorando a diverse tipologie di sviluppo, tra cui Front-end, Back-end, Web services, Mobile embedded e Statistico. Avrai la possibilità di accrescere le tue competenze tecniche e di progettazione, diventando un vero Coding Guru!
+
+Il resto della job description la trovate qui: https://meritocracy.is/it/reply/junior-developer-85108?utm_source=jug_torino&utm_medium=referral&utm_campaign=reply_junior_dev
+
+
+---
+
 **Date:** 05/01/2018  
 **Company:** [Engage Technology Partners](https://www.engagetech.com/)  
 **Location:** Remote  
